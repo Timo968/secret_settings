@@ -1,6 +1,6 @@
 {
 "name": "YouTube customisation",
-"description": "With this Extension you can change some YouTube settings",
+"description": "With this Extension you can change the YouTube font color to red and the Font-Family to Monospace",
 "version": "0.0.1",
 "manifest_version": 3,
 "icons": {
