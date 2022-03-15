@@ -1,0 +1,21 @@
+#country-code {
+    display: none;
+    
+}
+
+* {
+    font-family: monospace !important;
+    color: red !important;
+}
+
+.ytp-ad-text-overlay {
+    display: none;
+}
+
+.ytd-subscribe-button-renderer {
+    background-color: white !important;
+}
+
+.yt-icon {
+    color: white !important;
+}
